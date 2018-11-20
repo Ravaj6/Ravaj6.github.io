@@ -1,10 +1,35 @@
----
-layout: post
-title: You're up and running!
----
+_ _ _
+Layout: Post
+Title: Top College Players
+_ _ _
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Football](/image/Football.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Top 10
+These are the Players I believe are the top in the Nation
+1. Greg Aitkenhead
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## Heisman
+These are the players contending for College Football MVP
+1.
+2.
+3.
+4.
+5.
+
+## NFL Mock
+These are the players who could go in the first round
+1. 
+2.
+3.
+4.
+5.
