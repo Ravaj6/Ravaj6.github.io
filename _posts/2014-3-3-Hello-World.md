@@ -3,7 +3,7 @@ Layout: Post
 Title: Top College Players
 _ _ _
 
-![Football](/image/Football.jpg)
+![Football](/images/Football.jpg)
 
 ## Top 10
 These are the Players I believe are the top in the Nation
