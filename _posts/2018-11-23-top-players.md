@@ -1,7 +1,7 @@
-_ _ _
-Layout: Post
-Title: Top College Players
-_ _ _
+---
+layout: post
+title: Top College Players
+---
 
 ![Football](/images/Football.jpg)
 
