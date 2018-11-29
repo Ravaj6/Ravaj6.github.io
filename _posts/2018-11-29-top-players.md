@@ -3,7 +3,7 @@ layout: post
 title: Top College Players
 ---
 
-![Football](/images/Football.jpg)
+![Football](/images/bm1.jpg)
 
 ## My Favorite Player
 
